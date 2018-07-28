@@ -389,6 +389,8 @@ do {
 
 将故障转移整合到应用中可能导致应用变得太过笨拙。
 
+## Mysql 优化
+
 # 参考资料
 
 - BaronScbwartz, PeterZaitsev, VadimTkacbenko, 等. 高性能 MySQL[M]. 电子工业出版社, 2013.
@@ -396,3 +398,5 @@ do {
 - [MySQL 索引背后的数据结构及算法原理 ](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
 - [20+ 条 MySQL 性能优化的最佳经验 ](https://www.jfox.info/20-tiao-mysql-xing-nen-you-hua-de-zui-jia-jing-yan.html)
 - [数据库为什么分库分表？mysql的分库分表方案](https://www.i3geek.com/archives/1108)
+
+
